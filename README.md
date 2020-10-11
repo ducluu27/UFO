@@ -5,4 +5,5 @@ The purpose of this create more filters for multiple critera to provide a more i
 
 ### Results 
 To use the filter search follow the steps: 
-  1. 
+1. Go the the filter search column and find the date you want to look for UFO sightings and enter the date.
+

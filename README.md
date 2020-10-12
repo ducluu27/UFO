@@ -9,9 +9,9 @@ To use the filter search follow the steps:
 
 ![Picture](https://github.com/ducluu27/UFO/blob/main/imagesv1/Step%201.png)
 
-2. After entering an input press enter or click outside the box.
+2. After entering an input or inputs press enter or click outside the box.
 
-![Picture]
+![Picture](https://github.com/ducluu27/UFO/blob/main/imagesv1/Step%202.png)
 
 
 3. The table will automatically refresh everytime a new input is entered or taken out.

@@ -7,7 +7,7 @@ The purpose of this create more filters for multiple critera to provide a more i
 To use the filter search follow the steps: 
 1. Go the the filter search column and enter in the proper input data in each box as need.
 
-![Picture]
+![Picture](https://github.com/ducluu27/UFO/blob/main/imagesv1/Step%201.png)
 
 2. After entering an input or inputs press enter or click outside the box.
 
